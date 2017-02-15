@@ -22,3 +22,6 @@ Has de tener un repositorio llamado X-Nav-Bootstrap-Carousel en tu cuenta en Git
 que incluya todos los elementos en local (o vía CDN) para que se pueda ver la 
 web resultante.
 
+#Try me
+
+http://Arturo-RB.github.io/X-Nav-Bootstrap-Carousel
