@@ -5,6 +5,7 @@
 body {
   padding-bottom: 40px;
   color: #5a5a5a;
+  background-color: black;
 }
 
 
@@ -18,6 +19,12 @@ body {
   right: 0;
   left: 0;
   z-index: 20;
+}
+
+/*jumbotron text-center*/
+.text-center{
+  background-color: #AC0808;
+  color: black;
 }
 
 /* Flip around the padding for proper display in narrow viewports */
